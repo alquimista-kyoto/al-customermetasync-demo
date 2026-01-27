@@ -527,5 +527,9 @@
       "send_on": "YYYY-MM-DD",
       "send_on_label": "Send on (optional)"
     }
+  },
+  "privacy_consent": {
+    "message": "Please agree to the privacy policy.",
+    "link": "Go to your profile page"
   }
 }
